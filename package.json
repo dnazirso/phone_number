@@ -1,0 +1,12 @@
+{
+  "name": "phone_number",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dnazirso/phone_number.git",
+  "author": "dnazirso <darryl.nazir@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "jest": "^26.6.3"
+  }
+}
